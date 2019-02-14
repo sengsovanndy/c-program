@@ -7,7 +7,7 @@ main()
   temp=a/2;
   if(temp==0);
    {
-    printf("the given numbe is even");
+    printf("the given number is even");
    }
    else
    {
