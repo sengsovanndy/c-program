@@ -34,3 +34,16 @@ main()
   }
 }
 
+sum
+#include<stdio.h>
+main()
+{
+  int a,b,sum;
+  printf("enter the number for a");
+  scanf("%d",&a);
+  printf("enter the number for b");
+  scanf("%d",&b);
+  sum=a+b;
+  printf("the sum of the two number is equal=%d",sum);
+}
+
