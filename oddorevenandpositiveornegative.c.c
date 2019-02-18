@@ -1,3 +1,4 @@
+even or odd number
 #include 
 main()
 {
@@ -15,3 +16,21 @@ main()
     }
   
 }
+
+postive or negative number
+#include<stdio.h>
+main()
+{
+  int a,b;
+  printf("enter the number");
+  scanf("%d",&a);
+  if(a<0)
+  {
+    printf("the given number is negative");
+  }
+  else
+  {
+    printf("the given number is positive");
+  }
+}
+
